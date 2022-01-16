@@ -11118,5 +11118,43 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.header {
+  margin-bottom: 20px;
+}
+
+.teste {
+  background-color: aquamarine;
+  border: 1px solid orange;
+}
+
+.hero {
+  background-color: pink;
+  padding: 50px 0;
+}
+
+.bg-gray {
+  width: 100%;
+  background-color: gray;
+}
+
+.bg-red {
+  width: 100%;
+  background-color: #ca3232;
+}
+
+.bg-blue {
+  width: 100%;
+  background-color: #37aaf7;
+}
+
+.bg-purple {
+  width: 100%;
+  background-color: #841ca3;
+}
+
+.bg-green {
+  width: 100%;
+  background-color: #14ad59;
+}
 
 /*# sourceMappingURL=styles.css.map */
