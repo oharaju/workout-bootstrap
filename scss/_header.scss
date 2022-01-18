@@ -8,36 +8,28 @@
 }
 
 
-
-
-
-
 .hero {
-  background-color: pink;
-  padding: 50px 0;
+  background-color:rgb(240, 180, 217);
+  padding: 50px 30px;
+  text-align: center;
+}
+
+.box {
+  margin-bottom: 60px;
 }
 
 .bg-gray {
-  width: 100%;
-  background-color: gray;
+  background-color: rgb(212, 12, 169);
 }
 
-.bg-red {
-  width: 100%;
-  background-color: rgb(202, 50, 50);
-}
-
-.bg-blue {
-  width: 100%;
-  background-color: rgb(55, 170, 247);
+.bg-rose {
+  background-color: rgb(224, 184, 247);
 }
 
 .bg-purple {
-  width: 100%;
-  background-color: rgb(132, 28, 163);
+  background-color: rgb(167, 109, 185);
 }
 
-.bg-green {
-  width: 100%;
-  background-color: rgb(20, 173, 89);
+.bg-pink {
+  background-color: rgb(226, 98, 188);
 }

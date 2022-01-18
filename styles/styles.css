@@ -11128,33 +11128,29 @@ textarea.form-control-lg {
 }
 
 .hero {
-  background-color: pink;
-  padding: 50px 0;
+  background-color: #f0b4d9;
+  padding: 50px 30px;
+  text-align: center;
+}
+
+.box {
+  margin-bottom: 60px;
 }
 
 .bg-gray {
-  width: 100%;
-  background-color: gray;
+  background-color: #d40ca9;
 }
 
-.bg-red {
-  width: 100%;
-  background-color: #ca3232;
-}
-
-.bg-blue {
-  width: 100%;
-  background-color: #37aaf7;
+.bg-rose {
+  background-color: #e0b8f7;
 }
 
 .bg-purple {
-  width: 100%;
-  background-color: #841ca3;
+  background-color: #a76db9;
 }
 
-.bg-green {
-  width: 100%;
-  background-color: #14ad59;
+.bg-pink {
+  background-color: #e262bc;
 }
 
 /*# sourceMappingURL=styles.css.map */
