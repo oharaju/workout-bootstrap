@@ -11118,19 +11118,12 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-.header {
-  margin-bottom: 20px;
-}
-
-.teste {
-  background-color: aquamarine;
-  border: 1px solid orange;
-}
-
 .hero {
-  background-color: #f0b4d9;
-  padding: 50px 30px;
+  padding: 80px 30px;
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
 }
 
 .box {

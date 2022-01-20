@@ -1,17 +1,10 @@
-.header {
-  margin-bottom: 20px;
-}
-
-.teste {
-  background-color:aquamarine;
-  border: 1px solid orange;
-}
-
-
 .hero {
-  background-color:rgb(240, 180, 217);
-  padding: 50px 30px;
+  //*background-color:rgb(240, 180, 217);*//
+  padding: 80px 30px;
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
 }
 
 .box {
