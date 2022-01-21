@@ -1,14 +1,10 @@
 .hero {
-  //*background-color:rgb(240, 180, 217);*//
+  background-color:rgb(240, 180, 217);
   padding: 80px 30px;
   text-align: center;
   display: flex;
   flex-direction: column;
   gap: 100px;
-}
-
-.box {
-  margin-bottom: 60px;
 }
 
 .bg-gray {
@@ -26,3 +22,12 @@
 .bg-pink {
   background-color: rgb(226, 98, 188);
 }
+
+.bg-lilas {
+  background-color:rgb(93, 10, 141);
+}
+
+.bg-tiffany {
+  background-color:rgb(165, 222, 224);
+}
+

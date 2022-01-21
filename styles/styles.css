@@ -11119,15 +11119,12 @@ textarea.form-control-lg {
   }
 }
 .hero {
+  background-color: #f0b4d9;
   padding: 80px 30px;
   text-align: center;
   display: flex;
   flex-direction: column;
   gap: 100px;
-}
-
-.box {
-  margin-bottom: 60px;
 }
 
 .bg-gray {
@@ -11144,6 +11141,14 @@ textarea.form-control-lg {
 
 .bg-pink {
   background-color: #e262bc;
+}
+
+.bg-lilas {
+  background-color: #5d0a8d;
+}
+
+.bg-tiffany {
+  background-color: #a5dee0;
 }
 
 /*# sourceMappingURL=styles.css.map */
